@@ -1,0 +1,11 @@
+Experiment Group,Run ID,Changed Variable,Landscape,Population Size,Initial Genome Size,Mutation Rate,No. of Generation,Simulation Time,Best Fitness For This Run,Correct Best Elite File,Correct Best Elite Generation,Anti-Cheat Triggered,Anti-Cheat Reason,Anti-Cheat Step,Notes
+Landscape,HILL_R1,Landscape,hill,10,3 genes,0.1,100,2400,172.687,Testing_Background\Hill\Testing_h_1\archive\landscape_hill_baseline_2026-07-09_00-34-54\elite_99.csv,99,False,,None,Stable
+Landscape,HILL_R2,Landscape,hill,10,3 genes,0.1,100,2400,187.94,Testing_Background\Hill\Testing_h_2\archive\landscape_hill_baseline_2026-07-09_00-39-26\elite_99.csv,99,False,,None,Stable
+Landscape,HILL_R3,Landscape,hill,10,3 genes,0.1,100,2400,304.197,Testing_Background\Hill\Testing_h_3\archive\landscape_hill_baseline_2026-07-09_00-42-59\elite_99.csv,99,False,,None,Stable
+Landscape,HILL_R4,Landscape,hill,10,3 genes,0.1,100,2400,192.673,Testing_Background\Hill\Testing_h_4\archive\landscape_hill_baseline_2026-07-09_00-46-56\elite_99.csv,99,False,,None,Stable
+Landscape,HILL_R5,Landscape,hill,10,3 genes,0.1,100,2400,450.953,Testing_Background\Hill\Testing_h_5\archive\landscape_hill_baseline_2026-07-09_00-50-18\elite_99.csv,99,False,,None,Stable
+Landscape,VAL_R1,Landscape,valley,10,3 genes,0.1,100,2400,167.591,Testing_Background\Valley\Testing_v_1\archive\landscape_valley_baseline_2026-07-09_01-00-26\elite_99.csv,99,False,,None,Stable
+Landscape,VAL_R2,Landscape,valley,10,3 genes,0.1,100,2400,225.828,Testing_Background\Valley\Testing_v_2\archive\landscape_valley_baseline_2026-07-09_01-05-54\elite_99.csv,99,False,,None,Stable
+Landscape,VAL_R3,Landscape,valley,10,3 genes,0.1,100,2400,201.083,Testing_Background\Valley\Testing_v_3\archive\landscape_valley_baseline_2026-07-09_01-09-21\elite_99.csv,99,False,,None,Stable
+Landscape,VAL_R4,Landscape,valley,10,3 genes,0.1,100,2400,164.019,Testing_Background\Valley\Testing_v_4\archive\landscape_valley_baseline_2026-07-09_01-12-37\elite_99.csv,99,False,,None,Stable
+Landscape,VAL_R5,Landscape,valley,10,3 genes,0.1,100,2400,199.757,Testing_Background\Valley\Testing_v_5\archive\landscape_valley_baseline_2026-07-09_01-15-48\elite_99.csv,99,False,,None,Stable
