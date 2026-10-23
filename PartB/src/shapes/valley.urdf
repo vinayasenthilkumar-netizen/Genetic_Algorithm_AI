@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<robot name="valley">
+  <link name="valley_link">
+
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1"/>
+      <inertia
+        ixx="1"
+        ixy="0"
+        ixz="0"
+        iyy="1"
+        iyz="0"
+        izz="1"/>
+    </inertial>
+
+    <visual>
+      <geometry>
+        <mesh filename="valley.obj" scale="1 1 1"/>
+      </geometry>
+      <material name="brown">
+        <color rgba="0.55 0.35 0.15 1"/>
+      </material>
+    </visual>
+
+    <collision>
+      <geometry>
+        <mesh filename="valley.obj" scale="1 1 1"/>
+      </geometry>
+    </collision>
+
+  </link>
+</robot>
